@@ -1,136 +1,295 @@
 <div align="center">
 
-
-<img src="https://vercel.app"/>
-
-<br/>
-
-
-<img src="https://demolab.com"/>
-
-<br/>
-
-
-<a href="https://linkedin.com">
-  <img src="https://shields.io"/>
-</a>
-<a href="https://github.com">
-  <img src="https://shields.io"/>
-</a>
-<a href="https://leetcode.com">
-  <img src="https://shields.io"/>
-</a>
-<img src="https://komarev.com"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=220&section=header&text=Himendra%20Gusain&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Java%20Backend%20Engineer%20%E2%80%94%20Spring%20Boot%20%7C%20Security%20%7C%20REST%20APIs&descAlignY=62&descSize=15&stroke=BC82F3&strokeWidth=2"/>
 
 </div>
-
----
-
-### ⚡ Professional Summary
-
-I am a dedicated **Java Backend Engineer** specialized in architecting secure, reliable, and production-grade software systems using the **Spring Ecosystem**. 
-
-My engineering mindset is focused on mastering core frameworks down to the bytecode level. Rather than simply stitching dependencies together, I build enterprise-ready architectures centered around strict data validation, performant persistence handling, loose coupling, and airtight access control.
-
-* ⚙️ **Production Focus:** High-performance RESTful maturity models, asynchronous processing, and clean API design.
-* 🧠 **Algorithmic Edge:** Actively optimizing data structures and practicing advanced algorithmic problem-solving daily.
-
----
-
-### 📐 Core Engineering Principles
-
-* **Clean Over Clever:** Prioritize highly-readable, explicit code that reduces technical debt and simplifies onboarding.
-* **Security by Design:** Threat modeling, stateless authorization, and cryptographic integrity are foundational steps, never late additions.
-* **Master the Abstractions:** Know exactly how tools like Hibernate, JVM memory management, and Spring container lifecycles function under the hood.
-
----
-
-### 🚀 Featured Engineering Project
-
-<table width="100%">
-  <tr>
-    <td>
-      <strong>🎯 Focus API</strong> — <em>Production-Style Enterprise REST Engine</em>
-      <br/><br/>
-      A highly scalable RESTful API built on enterprise design patterns, enforcing strict layered architecture boundaries and advanced security protocols.
-      <br/><br/>
-      <ul>
-        <li>🛡️ <strong>Spring Security Architecture:</strong> Implemented deep filter chain management with zero-trust custom stateful and stateless JWT authorization.</li>
-        <li>📦 <strong>Decoupled Design:</strong> Engineered clean <code>Controller ➔ Service ➔ Repository</code> separation of concerns using mapped structural DTOs.</li>
-        <li>🛠️ <strong>Enterprise Resiliency:</strong> Configured comprehensive JSR-380 bean validations coupled with a centralized global exception handler returning standard JSON error envelopes.</li>
-      </ul>
-      <strong>Ecosystem:</strong> <code>Java 17</code>, <code>Spring Boot</code>, <code>Spring Security</code>, <code>JWT</code>, <code>Spring Data JPA</code>, <code>Hibernate</code>, <code>H2 Database</code>, <code>Maven</code>
-      <br/><br/>
-      🔗 <a href="https://github.com/focus-api"><strong>Explore Source & Documentation</strong></a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 Computer Science Foundations
-
-<table width="100%">
-  <tr>
-    <td>
-      <img src="https://simpleicons.org" height="24" align="left" style="margin-right: 10px;"/>
-      <strong>LeetCode Java Solutions</strong> — <em>Structured Algorithmic Rigor via Striver's A2Z</em>
-      <br/><br/>
-      A public repository detailing daily optimized solutions tracking advanced data structures and algorithmic theory.
-      <br/><br/>
-      <code>Arrays</code> • <code>Sliding Window</code> • <code>Recursion</code> • <code>Two Pointers</code> • <code>Backtracking</code> • <code>Linked Lists</code> • <code>Stacks & Queues</code> • <code>Binary Trees</code> • <code>BST</code> • <code>Graphs</code> • <code>Dynamic Programming</code> • <code>Tries</code>
-      <br/><br/>
-      🔗 <a href="https://github.com/leetcode-java"><strong>Explore Algorithms Repository</strong></a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Production Tech Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://shields.io"/> |
-| **Frameworks** | <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| **Security Layer** | <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| **Persistence Engine** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| **Tools & Tooling** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
-
----
-
-### 📊 Real-Time Git Performance Metrics
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center">
-      <img height="175" src="https://vercel.app"/>
-    </td>
-    <td width="50%" align="center">
-      <img height="175" src="https://vercel.app"/>
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2000&color=BC82F3&center=true&vCenter=true&width=750&lines=Building+secure%2C+scalable+backend+systems+in+Java;Spring+Boot+%C2%B7+Spring+Security+%C2%B7+JWT+%C2%B7+JPA+%C2%B7+Hibernate;Writing+clean+code+that+works+in+production%2C+not+just+demos;DSA+grind+%E2%80%94+Striver%27s+A2Z+%C2%B7+Java+%C2%B7+LeetCode"/>
+
+</div>
 
 <br/>
 
-<img src="https://demolab.com"/>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himendra-gusain/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himendra21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Himendra11/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Himendra21&style=for-the-badge&color=BC82F3&label=PROFILE+VIEWS)](https://github.com/Himendra21)
 
 </div>
 
 ---
 
-<div align="center">
+<br/>
 
-📡 **Let's engineer something resilient, secure, and scalable.**
+## ◈ Who I Am
 
-💼 [LinkedIn](https://linkedin.com) • 🐙 [GitHub](https://github.com)
+```java
+@Component
+public class Himendra implements BackendEngineer {
+
+    private final String focus    = "Java · Spring Boot · Backend Systems";
+    private final String approach = "Build to understand, not just to finish";
+    private final String current  = "Spring Security · JWT · REST APIs · DSA";
+
+    @Override
+    public String philosophy() {
+        return "Clean architecture. Secure by design. Improved through iteration.";
+    }
+}
+```
 
 <br/>
 
+I'm a Java Backend Engineer who believes the best way to understand a system is to build one.
 
-<img src="https://vercel.app"/>
+Every project I work on is an exercise in going deeper — into authentication flows, layered architecture, exception handling, and the design decisions that make backend software reliable and maintainable over time. I don't collect frameworks; I understand them.
+
+Currently sharpening: **Spring Security internals**, **JWT authentication**, **REST API design**, and **Data Structures & Algorithms** (Striver's A2Z).
+
+<br/>
+
+---
+
+## ◈ Engineering Principles
+
+<table>
+<tr>
+<td width="50%">
+
+**Build to understand, not just to finish**
+Going beyond tutorials — writing the code, breaking it, then fixing it with intention.
+
+**Prefer clarity over cleverness**
+Readable, maintainable code beats clever one-liners every time.
+
+</td>
+<td width="50%">
+
+**Security and scalability by design**
+Not as an afterthought — woven into the architecture from the start.
+
+**Improve through real projects**
+Fundamentals get strong when tested under the pressure of building actual software.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## ◈ Featured Project
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                         FOCUS API                                ║
+║          Production-Style REST API · Spring Boot                ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+A backend system built to production-grade standards — not for a tutorial, but to deeply understand how secure, well-structured APIs are actually engineered.
+
+<br/>
+
+**Architecture & Features**
+
+| Layer | Implementation |
+|---|---|
+| **Authentication** | JWT — stateless, signed, validated through the Spring Security filter chain |
+| **Authorization** | Role-based access control via Spring Security |
+| **Architecture** | Strict layering: Controller → Service → Repository |
+| **Data Transfer** | DTOs with Bean Validation — no raw entity exposure |
+| **Error Handling** | Global exception handler — consistent, structured error responses |
+| **Persistence** | Spring Data JPA + Hibernate |
+| **Frontend** | Static frontend integration |
+
+<br/>
+
+**Tech Stack**
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-003B6F?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+<br/>
+
+🔗 **[View Repository →](https://github.com/Himendra21/focus-api)**
+
+<br/>
+
+---
+
+## ◈ DSA Repository
+
+<div align="center">
+<img src="https://img.shields.io/badge/LeetCode_Java-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Striver's_A2Z_Sheet-BC82F3?style=for-the-badge"/>
+</div>
+
+<br/>
+
+Java solutions to Data Structures & Algorithms problems — structured around **Striver's A2Z DSA Sheet**, the most systematic path from fundamentals to advanced.
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+- Arrays
+- Hashing
+- Sorting
+- Binary Search
+- Strings
+- Sliding Window
+- Two Pointers
+- Recursion
+- Backtracking
+- Bit Manipulation
+
+</td>
+<td>
+
+- Linked Lists
+- Stacks & Queues
+- Heaps
+- Greedy Algorithms
+- Binary Trees
+- Binary Search Trees
+- Graphs
+- Dynamic Programming
+- Tries
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+🔗 **[View Repository →](https://github.com/Himendra21/leetcode-java)**
+
+<br/>
+
+---
+
+## ◈ Tech Stack
+
+<div align="center">
+
+**Language**
+
+<img src="https://skillicons.dev/icons?i=java" height="48"/>
+
+<br/><br/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=spring" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<br/><br/>
+
+**Database & Persistence**
+
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<br/><br/>
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=idea,maven,git,github,postman&perline=5" height="48"/>
+
+</div>
+
+<br/>
+
+---
+
+## ◈ Currently Exploring
+
+```
+Spring Security  ████████████████████░░░░  Internals & filter chain mechanics
+JWT Auth Flow    ████████████████░░░░░░░░  End-to-end implementation
+REST API Design  ████████████████████░░░░  Versioning, error handling, contracts
+Clean Arch       ██████████████░░░░░░░░░░  Patterns and real-world application
+DSA — A2Z        ████████████░░░░░░░░░░░░  Trees · Graphs · DP in progress
+```
+
+<br/>
+
+---
+
+## ◈ GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Himendra21&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=BC82F3&icon_color=8D9FFF&text_color=c9d1d9&bg_color=0d0d0d"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himendra21&layout=compact&theme=transparent&hide_border=true&title_color=BC82F3&text_color=c9d1d9&bg_color=0d0d0d"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Himendra21&theme=transparent&hide_border=true&ring=BC82F3&fire=FF6778&currStreakLabel=BC82F3&sideLabels=8D9FFF&dates=888888"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himendra21&bg_color=0d0d0d&color=BC82F3&line=8D9FFF&point=FF6778&area=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+---
+
+## ◈ Let's Connect
+
+<div align="center">
+
+I'm always open to conversations about backend engineering, Java, Spring, DSA, or anything in between.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himendra-gusain/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himendra21)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/Solve_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Himendra11/)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*Building reliable backend software through deliberate practice and real-world projects.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:0d1a3a,100:0d0d0d&height=100&section=footer&fontColor=ffffff"/>
+
+</div>
+
