@@ -57,7 +57,7 @@ A REST API built with Spring Boot that follows a clean layered architecture and 
 
 ### Tech Stack
 
-`Java 17` • `Spring Boot` • `Spring Security` • `JWT` • `Spring Data JPA` • `Hibernate` • `MySQL` • `Maven`
+`Java 17` • `Spring Boot` • `Spring Security` • `JWT` • `Spring Data JPA` • `Hibernate` • `H2Databse` • `Maven`
 
 🔗 **Repository:**  
 https://github.com/Himendra21/focus-api
