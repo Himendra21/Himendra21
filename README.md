@@ -122,8 +122,9 @@ https://github.com/Himendra21/leetcode-java
 
 ### Build & Tools
 
-<img src="https://skillicons.dev/icons?i=maven,git,github,idea,postman" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,maven,git,github,postman&perline=5" />
+</p>
 </p>
 ---
 
