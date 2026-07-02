@@ -64,7 +64,7 @@ https://github.com/Himendra21/focus-api
 
 ---
 
-## <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />💻 DSA Repository 
+# <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" /> DSA Repository 
 
 ### LeetCode Java
 A collection of Java solutions while practicing Data Structures & Algorithms using **Striver's A2Z DSA Sheet**.
