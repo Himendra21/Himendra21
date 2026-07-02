@@ -49,11 +49,10 @@ A REST API built with Spring Boot that follows a clean layered architecture and 
 - RESTful API Design
 - Layered Architecture (Controller → Service → Repository)
 - DTO Mapping
-- Bean Validation
-- Global Exception Handling
+- Beans & Validation
+- Exceptions Handling
 - Spring Data JPA
 - Hibernate
-- MySQL Integration
 - Static Frontend Integration
 
 ### Tech Stack
@@ -75,12 +74,23 @@ Topics covered include:
 
 - Arrays
 - Hashing
-- Two Pointers
+- Sorting
 - Binary Search
+- Strings
 - Sliding Window
+- Two Pointers
+- Recursion
+- Backtracking
+- Bit Manipulation
 - Linked Lists
-- Trees
+- Stacks & Queues
+- Heaps (Priority Queue)
+- Greedy Algorithms
+- Binary Trees
+- Binary Search Trees
+- Graphs
 - Dynamic Programming
+- Tries
 
 🔗 **Repository:**  
 https://github.com/Himendra21/leetcode-java
