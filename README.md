@@ -53,7 +53,7 @@ A REST API built with Spring Boot that follows a clean layered architecture and 
 - Exceptions Handling
 - Spring Data JPA
 - Hibernate
-- Static Frontend Integration
+- Static Frontend 
 
 ### Tech Stack
 
