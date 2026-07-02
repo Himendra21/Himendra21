@@ -292,4 +292,3 @@ I'm always open to conversations about backend engineering, Java, Spring, DSA, o
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:0d1a3a,100:0d0d0d&height=100&section=footer&fontColor=ffffff"/>
 
 </div>
-
