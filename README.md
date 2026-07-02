@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- PREMIUM MINIMALIST BANNER -->
+
 <img src="https://vercel.app"/>
 
 <br/>
 
-<!-- HIGH-CONVERSION TYPING SVG -->
+
 <img src="https://demolab.com"/>
 
 <br/>
 
-<!-- UNIFIED FLAT-SQUARE BADGES -->
+
 <a href="https://linkedin.com">
   <img src="https://shields.io"/>
 </a>
@@ -130,7 +130,7 @@ My engineering mindset is focused on mastering core frameworks down to the bytec
 
 <br/>
 
-<!-- PREMIUM CLEAN CLOSING ANCHOR -->
+
 <img src="https://vercel.app"/>
 
 </div>
