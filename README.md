@@ -1,12 +1,12 @@
 # Himendra Gusain
 
-**Java Backend Engineer** | Spring Boot • Spring Security • REST APIs | Building secure, scalable systems with deliberate practice
+**Java Backend Developer** | Spring Boot • Spring Security • REST APIs | Building secure, scalable systems with deliberate practice
 
 ---
 
 ## 🎯 About
 
-I'm a Java backend engineer specializing in **Spring Boot**, **Spring Security**, and **REST API design**. I build production-grade applications with a focus on security, maintainability, and clean architecture.
+I'm a Java backend developer specializing in **Spring Boot**, **Spring Security**, and **REST API design**. I build production-grade applications with a focus on security, maintainability, and clean architecture.
 
 **Philosophy:** Learn by building. Understand mechanisms before abstractions. Ship clean code.
 
