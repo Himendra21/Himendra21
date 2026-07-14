@@ -30,9 +30,9 @@ A fully-functional backend system demonstrating enterprise-level software engine
 - ✓ RESTful API design with proper HTTP status codes
 - ✓ Frontend integration ready
 
-**Tech Stack:** Java 17 • Spring Boot • Spring Security • JWT • MySQL • Hibernate • Maven
+**Tech Stack:** Java 17 • Spring Boot • Spring Security • JWT • Hibernate • Maven
 
-📍 **[View Repository](https://github.com/Himendra21/focus-api)** | **[Live Demo](#)** (if applicable)
+📍 **[View Repository](https://github.com/Himendra21/focus-api)** 
 
 ---
 
