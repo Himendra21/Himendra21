@@ -1,89 +1,123 @@
 # Himendra Gusain
 
-**Java Backend Engineer** | Spring Boot • Spring Security • REST APIs
-
-Building secure, scalable systems through deliberate practice.
+**Java Backend Developer** | Spring Boot • Spring Security • REST APIs | Building secure, scalable systems with deliberate practice
 
 ---
 
-## What I Do
+## 🎯 About
 
-Backend systems that work. Spring Boot specialization. Security-first architecture. Clean code.
+I'm a Java backend developer specializing in **Spring Boot**, **Spring Security**, and **REST API design**. I build production-grade applications with a focus on security, maintainability, and clean architecture.
 
-**Current Focus:** Spring Security • JWT • REST API Design • System Design • DSA
+**Philosophy:** Learn by building. Understand mechanisms before abstractions. Ship clean code.
 
----
-
-## Featured Work
-
-### [Focus API](https://github.com/Himendra21/focus-api)
-Production-grade REST API. Enterprise patterns. Ready to scale.
-
-**What's Inside:**
-- JWT authentication with Spring Security filter chain
-- Layered architecture (Controller → Service → Repository)
-- Global exception handling
-- Bean validation & DTO mapping
-- Spring Data JPA + Hibernate
-- RESTful design
-
-**Stack:** Java 17 • Spring Boot • Spring Security • MySQL • Maven
+**Current Focus:** Spring Security • JWT Authentication • REST APIs • System Design • Data Structures & Algorithms
 
 ---
 
-### [LeetCode Java](https://github.com/Himendra21/leetcode-java)
-DSA mastery. 200+ problems solved. Striver's A2Z guide.
+## 💼 Featured Projects
 
-**Coverage:** Arrays • Linked Lists • Trees • Graphs • DP • Greedy • Bit Manipulation
+### Focus API
+**Production-grade REST API built with Spring Boot and clean architecture**
 
----
+A fully-functional backend system demonstrating enterprise-level software engineering practices.
 
-## Tech Stack
+**Technical Achievements:**
+- ✓ JWT-based authentication & authorization with Spring Security filter chain
+- ✓ Layered architecture: Controller → Service → Repository pattern
+- ✓ Global exception handling with meaningful error responses
+- ✓ Bean validation & DTO mapping for type safety
+- ✓ Spring Data JPA with Hibernate ORM
+- ✓ RESTful API design with proper HTTP status codes
+- ✓ Frontend integration ready
 
-```
-Languages       Java 17
-Backend         Spring Boot • Spring Security • Spring Data JPA
-Security        JWT • BCrypt • Spring Security
-Databases       MySQL • Hibernate ORM • H2
-Tools           Maven • Git • IntelliJ IDEA • Postman
-```
+**Tech Stack:** Java 17 • Spring Boot • Spring Security • JWT • Hibernate • Maven
 
----
-
-## Engineering Mindset
-
-> "Simplicity is the ultimate sophistication." — Leonardo da Vinci
-
-1. **Build to understand** — Code teaches, abstractions follow
-2. **Clarity over cleverness** — Readable code wins
-3. **Security first** — Design it in, don't patch it later
-4. **Maintainability scales** — Clean code enables growth
-5. **Understand mechanisms** — Know the "why" before the "how"
+📍 **[View Repository](https://github.com/Himendra21/focus-api)** 
 
 ---
 
-## Learning Path
+### LeetCode Java
+**Data Structures & Algorithms mastery through consistent problem-solving**
 
-- [ ] OAuth2 / OIDC patterns
-- [ ] Microservices & Spring Cloud
-- [ ] Database performance optimization
-- [ ] Design patterns & clean architecture
-- [ ] System design fundamentals
-- [ ] Advanced DSA for interviews
+Comprehensive DSA solutions following **Striver's A2Z Coding Sheet**.
 
----
+**Problem Coverage:**
+- **Core Data Structures:** Arrays • Linked Lists • Stacks & Queues • Trees • Graphs • Heaps
+- **Advanced Topics:** Dynamic Programming • Greedy Algorithms • Bit Manipulation • Tries
+- **Fundamental Skills:** Binary Search • Sliding Window • Two Pointers • Hashing • Sorting
 
-## Let's Connect
+**Languages:** Java (optimized for production code quality)
 
-| Platform | Link |
-|----------|------|
-| **GitHub** | [@Himendra21](https://github.com/Himendra21) |
-| **LinkedIn** | [himendra-gusain](https://www.linkedin.com/in/himendra-gusain/) |
-| **LeetCode** | [Himendra11](https://leetcode.com/u/Himendra11/) |
-| **Email** | himendragusain@gmail.com |
+📍 **[View Repository](https://github.com/Himendra21/leetcode-java)**
 
 ---
 
-**Open to:** Backend discussions • System design • Security best practices • Meaningful projects
+## 🛠 Technical Stack
 
-Built with ☕ | Optimized for 🚀 | Designed for 🧠
+**Languages:**
+- Java 17
+
+**Backend Frameworks:**
+- Spring Boot • Spring Security • Spring Data JPA
+
+**Security & Authentication:**
+- JWT (JSON Web Tokens) • Spring Security • BCrypt Password Encoding
+
+**Databases & Persistence:**
+- MySQL • Hibernate ORM • H2 (Testing)
+
+**Build & Tools:**
+- Maven • Git • IntelliJ IDEA • Postman • GitHub
+
+---
+
+## 📚 Engineering Principles
+
+1. **Build to understand, not just to finish** — Every line of code teaches something
+2. **Prefer clarity over cleverness** — Code is read more than written
+3. **Design for security from day one** — Don't patch vulnerabilities later
+4. **Maintainability scales systems** — Clean code enables growth
+5. **Learn mechanisms before trusting abstractions** — Understand the "why"
+6. **Iterate and improve continuously** — Real projects reveal gaps
+
+---
+
+## 🌱 Currently Learning
+
+- [ ] Spring Security internals & OAuth2/OIDC
+- [ ] Microservices architecture & Spring Cloud
+- [ ] Database optimization & query performance
+- [ ] Clean code principles & design patterns
+- [ ] System design interviews preparation
+- [ ] Advanced DSA for technical interviews
+
+---
+
+## 📊 GitHub Insights
+
+- **Languages:** Java (primary), MySQL (databases)
+- **Commit Style:** Atomic commits with clear messages
+- **Code Quality:** Focus on readability and maintainability
+- **Public Contributions:** Active learning through open-source exploration
+
+---
+
+## 🔗 Connect & Explore
+
+- **LinkedIn:** [himendra-gusain](https://www.linkedin.com/in/himendra-gusain/)
+- **GitHub:** [@Himendra21](https://github.com/Himendra21)
+- **LeetCode:** [Himendra11](https://leetcode.com/u/Himendra11/)
+- **Email:** himendragusain@gmail.com
+
+---
+
+## 💡 Why This Profile
+
+This isn't just a showcase—it's a record of deliberate practice in backend engineering. Every project demonstrates a commitment to understanding systems deeply, writing secure code, and building software that lasts.
+
+**Open to:** Discussing backend engineering, system design, security best practices, and opportunities to contribute to meaningful projects.
+
+---
+
+**Built with ☕ Java | Optimized for 🚀 Production | Designed for 🧠 Learning**
+
