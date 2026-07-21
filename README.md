@@ -1,123 +1,126 @@
-# Himendra Gusain
+# Hi, I'm Himendra Gusain 👋
 
-**Java Backend Developer** | Spring Boot • Spring Security • REST APIs | Building secure, scalable systems with deliberate practice
+I'm a Java backend developer focused on learning how reliable backend systems are designed and built.
 
----
+I enjoy understanding the fundamentals behind the frameworks I use—from HTTP requests and authentication to persistence, transactions, and application architecture.
 
-## 🎯 About
-
-I'm a Java backend developer specializing in **Spring Boot**, **Spring Security**, and **REST API design**. I build production-grade applications with a focus on security, maintainability, and clean architecture.
-
-**Philosophy:** Learn by building. Understand mechanisms before abstractions. Ship clean code.
-
-**Current Focus:** Spring Security • JWT Authentication • REST APIs • System Design • Data Structures & Algorithms
+Most repositories on this profile are learning projects built to deepen that understanding through deliberate practice.
 
 ---
 
-## 💼 Featured Projects
+## 🎯 Current Focus
 
-### Focus API
-**Production-grade REST API built with Spring Boot and clean architecture**
-
-A fully-functional backend system demonstrating enterprise-level software engineering practices.
-
-**Technical Achievements:**
-- ✓ JWT-based authentication & authorization with Spring Security filter chain
-- ✓ Layered architecture: Controller → Service → Repository pattern
-- ✓ Global exception handling with meaningful error responses
-- ✓ Bean validation & DTO mapping for type safety
-- ✓ Spring Data JPA with Hibernate ORM
-- ✓ RESTful API design with proper HTTP status codes
-- ✓ Frontend integration ready
-
-**Tech Stack:** Java 17 • Spring Boot • Spring Security • JWT • Hibernate • Maven
-
-📍 **[View Repository](https://github.com/Himendra21/focus-api)** 
+- Java 17
+- Spring Boot
+- Spring Security
+- REST API Design
+- Spring Data JPA
+- MySQL
+- Data Structures & Algorithms
+- System Design
 
 ---
 
-### LeetCode Java
-**Data Structures & Algorithms mastery through consistent problem-solving**
+## 🚀 Featured Work
 
-Comprehensive DSA solutions following **Striver's A2Z Coding Sheet**.
+### 📌 Focus API
 
-**Problem Coverage:**
-- **Core Data Structures:** Arrays • Linked Lists • Stacks & Queues • Trees • Graphs • Heaps
-- **Advanced Topics:** Dynamic Programming • Greedy Algorithms • Bit Manipulation • Tries
-- **Fundamental Skills:** Binary Search • Sliding Window • Two Pointers • Hashing • Sorting
+A REST API built to explore the foundations of backend development with Spring Boot.
 
-**Languages:** Java (optimized for production code quality)
+**Implemented:**
 
-📍 **[View Repository](https://github.com/Himendra21/leetcode-java)**
+- JWT authentication with Spring Security
+- RESTful CRUD endpoints
+- Controller → Service → Repository architecture
+- Request and Response DTOs
+- Bean Validation
+- Global Exception Handling
+- Persistence using Spring Data JPA and MySQL
+- Consistent HTTP status codes and API responses
+
+**Repository:**  
+🔗 https://github.com/Himendra21/focus-api
 
 ---
 
-## 🛠 Technical Stack
+### 📌 LeetCode Java
 
-**Languages:**
+A collection of Java solutions while studying Data Structures and Algorithms.
+
+**Topics Covered:**
+
+- Arrays
+- Binary Search
+- Sliding Window
+- Two Pointers
+- Linked Lists
+- Trees
+- Graphs
+- Heaps
+- Greedy Algorithms
+- Dynamic Programming
+
+**Repository:**  
+🔗 https://github.com/Himendra21/leetcode-java
+
+---
+
+## 🛠 Tech Stack
+
+### Language
+
 - Java 17
 
-**Backend Frameworks:**
-- Spring Boot • Spring Security • Spring Data JPA
+### Frameworks
 
-**Security & Authentication:**
-- JWT (JSON Web Tokens) • Spring Security • BCrypt Password Encoding
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
 
-**Databases & Persistence:**
-- MySQL • Hibernate ORM • H2 (Testing)
+### Database
 
-**Build & Tools:**
-- Maven • Git • IntelliJ IDEA • Postman • GitHub
+- MySQL
+- H2 Database
 
----
+### Tools
 
-## 📚 Engineering Principles
-
-1. **Build to understand, not just to finish** — Every line of code teaches something
-2. **Prefer clarity over cleverness** — Code is read more than written
-3. **Design for security from day one** — Don't patch vulnerabilities later
-4. **Maintainability scales systems** — Clean code enables growth
-5. **Learn mechanisms before trusting abstractions** — Understand the "why"
-6. **Iterate and improve continuously** — Real projects reveal gaps
+- Git
+- GitHub
+- Maven
+- IntelliJ IDEA
+- Postman
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
-- [ ] Spring Security internals & OAuth2/OIDC
-- [ ] Microservices architecture & Spring Cloud
-- [ ] Database optimization & query performance
-- [ ] Clean code principles & design patterns
-- [ ] System design interviews preparation
-- [ ] Advanced DSA for technical interviews
-
----
-
-## 📊 GitHub Insights
-
-- **Languages:** Java (primary), MySQL (databases)
-- **Commit Style:** Atomic commits with clear messages
-- **Code Quality:** Focus on readability and maintainability
-- **Public Contributions:** Active learning through open-source exploration
+- Spring Security internals
+- OAuth2 & OpenID Connect
+- Docker
+- Database optimization
+- Distributed Systems
+- System Design
 
 ---
 
-## 🔗 Connect & Explore
+## 💡 Engineering Principles
 
-- **LinkedIn:** [himendra-gusain](https://www.linkedin.com/in/himendra-gusain/)
-- **GitHub:** [@Himendra21](https://github.com/Himendra21)
-- **LeetCode:** [Himendra11](https://leetcode.com/u/Himendra11/)
+- Build to understand.
+- Prefer clarity over cleverness.
+- Keep code simple and maintainable.
+- Learn the mechanism before relying on the abstraction.
+- Improve through consistent practice.
+
+---
+
+## 🤝 Connect
+
+- **GitHub:** https://github.com/Himendra21
+- **LinkedIn:** https://linkedin.com/in/himendra-gusain
+- **LeetCode:** https://leetcode.com/u/Himendra11
 - **Email:** himendragusain@gmail.com
 
 ---
 
-## 💡 Why This Profile
-
-This isn't just a showcase—it's a record of deliberate practice in backend engineering. Every project demonstrates a commitment to understanding systems deeply, writing secure code, and building software that lasts.
-
-**Open to:** Discussing backend engineering, system design, security best practices, and opportunities to contribute to meaningful projects.
-
----
-
-**Built with ☕ Java | Optimized for 🚀 Production | Designed for 🧠 Learning**
-
+> *I use GitHub as a record of my learning. Every repository represents something I've built to better understand backend engineering, one concept at a time.*
