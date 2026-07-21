@@ -99,19 +99,6 @@ A collection of Java solutions while studying Data Structures and Algorithms.
 - OAuth2 & OpenID Connect
 - Docker
 - Database optimization
-- Distributed Systems
-- System Design
-
----
-
-## 💡 Engineering Principles
-
-- Build to understand.
-- Prefer clarity over cleverness.
-- Keep code simple and maintainable.
-- Learn the mechanism before relying on the abstraction.
-- Improve through consistent practice.
-
 ---
 
 ## 🤝 Connect
