@@ -1,4 +1,4 @@
-# Hi, I'm Himendra Gusain 👋
+# 👋Hi, I'm Himendra Gusain 
 
 I'm a Java backend developer focused on learning how reliable backend systems are designed and built.
 
