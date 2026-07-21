@@ -123,4 +123,4 @@ A collection of Java solutions while studying Data Structures and Algorithms.
 
 ---
 
-> *I use GitHub as a record of my learning. Every repository represents something I've built to better understand backend engineering, one concept at a time.*
+> *Using GitHub as a record of my learning. Every repository represents something I've built to better understand backend engineering, one concept at a time.*
