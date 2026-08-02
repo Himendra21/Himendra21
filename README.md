@@ -2,8 +2,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:1e293b&height=180&section=header&text=Himendra%20Gusain&fontSize=52&fontColor=60a5fa&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
-  <h1>Java Backend Engineer</h1>
-  <p><b>Distributed Systems • High-Throughput REST APIs • Database Optimization</b></p>
+  <h1>Hi, I'm Himendra Gusain 👋</h1>
+  <p><b>Java Backend Developer • Focused on Backend Fundamentals & Deliberate Practice</b></p>
 
   <p align="center">
     <a href="https://linkedin.com/in/himendra-gusain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,53 +16,60 @@
 
 ---
 
-### 💡 Executive Summary
+### 💡 About Me
 
-I am a **Software Engineer** specializing in Java backend development, system design, and building resilient API infrastructures. My engineering practice focuses on high performance, clean architecture, and understanding low-level framework mechanics—from HTTP thread models and Spring Security filter chains to ORM query execution and database transaction isolation levels.
+I am a **Java Backend Developer** focused on learning how reliable backend systems are designed and built.
+
+Rather than treating frameworks as black boxes, I enjoy understanding the mechanics behind them—from HTTP request handling and authentication flows to persistence, transactions, and application architecture. Every project on my profile is a deliberate step to deepen that understanding through practical implementation.
 
 
-┌────────────────────────────────────────────────────────┐
-│                 API Request Lifecycle                  │
-└───────────────────────────┬────────────────────────────┘
+[ HTTP Request ]
 │
 ▼
-┌───────────────────────┐       ┌────────────────────────┐       ┌───────────────────────┐
-│   Spring Security     │ ────► │    Controller Layer    │ ────► │     Service Layer     │
-│ Stateless JWT / Auth  │       │  DTOs & Validation     │       │   Business Logic      │
-└───────────────────────┘       └────────────────────────┘       └───────────┬───────────┘
-│
-┌───────────────────────┐       ┌────────────────────────┐                   │
-│       MySQL DB        │ ◄──── │   Hibernate / JPA      │ ◄─────────────────┘
-│ Optimized Indexing    │       │ Entity & ORM Mapping   │  Repository Layer
-└───────────────────────┘       └────────────────────────┘
+┌──────────────────┐
+│  Spring Security │  ──► JWT Authentication & Security Filter Chain
+└─────────┬────────┘
+▼
+┌──────────────────┐
+│ Controller Layer │  ──► Request Validation, DTO Mapping & Status Codes
+└─────────┬────────┘
+▼
+┌──────────────────┐
+│  Service Layer   │  ──► Business Logic & Service Transactions
+└─────────┬────────┘
+▼
+┌──────────────────┐
+│ Repository Layer │  ──► Spring Data JPA, Hibernate & MySQL Persistence
+└──────────────────┘
 
 ---
 
-### 🛠️ Core Competencies & Keyword Index
+### 🛠️ Tech Stack & Concepts Practiced
 
-| Domain | Technologies & Architectural Concepts |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | Java 17 (LTS), SQL, Object-Oriented Programming (OOP), Data Structures & Algorithms |
-| **Frameworks** | Spring Boot 3.x, Spring Security, Spring Data JPA, Hibernate ORM |
-| **Databases** | MySQL, H2 In-Memory DB, Query Optimization, Database Indexing, Transaction Isolation (ACID) |
-| **System Architecture** | Layered Architecture (Controller-Service-Repository), RESTful API Design, DTO Pattern, Stateless Authentication, Global Exception Handling |
-| **Security & Auth** | JSON Web Tokens (JWT), OAuth2, OpenID Connect (OIDC), Role-Based Access Control (RBAC), Password Hashing (BCrypt) |
-| **Tooling & Infrastructure** | Git, GitHub, Maven, Docker, IntelliJ IDEA, Postman, Linux Command Line |
+| **Languages** | Java 17, SQL |
+| **Frameworks** | Spring Boot, Spring Security, Spring Data JPA, Hibernate |
+| **Databases** | MySQL, H2 In-Memory Database |
+| **API Architecture** | RESTful API Design, Layered Architecture, DTO Pattern, Bean Validation, Global Exception Handling |
+| **Security** | JWT (JSON Web Tokens), Password Hashing (BCrypt), Role-Based Access Control |
+| **Tools** | Git, GitHub, Maven, IntelliJ IDEA, Postman |
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Projects & Practice Work
 
 <details open>
-<summary><b>📌 Focus API — Enterprise Spring Boot REST Architecture</b></summary>
+<summary><b>📌 Focus API — REST API Built with Spring Boot</b></summary>
 <br>
 
-A production-ready RESTful backend built to demonstrate decoupled architectural patterns, robust validation pipelines, and stateless authentication.
+A learning project built to explore and solidify the foundations of backend development with Spring Boot.
 
-* **Layered Architecture:** Enforces strict boundary separation (`Controller -> Service -> Repository`) preventing domain logic leakage across HTTP interfaces.
-* **Security Pipeline:** Custom Spring Security Filter Chain implementation incorporating stateless JWT auth, BCrypt hashing, and role-based access control (RBAC).
-* **API Contract & Validation:** Decoupled database entities from API endpoints using Request/Response DTOs, Bean Validation (`@Valid`), and unified exception payloads via `@ControllerAdvice`.
-* **Persistence & Performance:** Relational schema designed in MySQL, managed through Spring Data JPA with optimized fetching strategies and lazy loading to prevent N+1 query overhead.
+* **Architecture:** Structured using Controller ➔ Service ➔ Repository pattern to maintain clean separation of concerns.
+* **Authentication:** Implemented JWT-based authentication using Spring Security for stateless request handling.
+* **Data Flow & Validation:** Used Request and Response DTOs alongside Bean Validation (`@Valid`) to keep API contracts clean.
+* **Error Handling:** Built a global exception handler (`@ControllerAdvice`) to return clear, consistent HTTP status codes and error responses.
+* **Persistence:** Configured relational mappings and data access using Spring Data JPA and MySQL.
 
 🔗 **Repository:** [Himendra21/focus-api](https://github.com/Himendra21/focus-api)
 </details>
@@ -70,31 +77,30 @@ A production-ready RESTful backend built to demonstrate decoupled architectural 
 <br>
 
 <details open>
-<summary><b>📌 LeetCode Java — Data Structures & Algorithm Design</b></summary>
+<summary><b>📌 LeetCode Java — Data Structures & Algorithms</b></summary>
 <br>
 
-A curated engine of optimized algorithmic solutions in idiomatic Java 17, designed to solve complex computational problems with low space-time complexity bounds.
+A personal repository documenting my solutions and problem-solving practice while studying computer science fundamentals in Java 17.
 
-* **Patterns Implemented:** Two Pointers, Sliding Window, Fast & Slow Pointers, Depth-First Search (DFS), Breadth-First Search (BFS), Dynamic Programming (Top-Down/Bottom-Up), Greedy Algorithms, and Backtracking.
-* **Core Structures:** Arrays, Hash Tables, Linked Lists, Trees, Graphs, Priority Queues / Binary Heaps.
-* **Focus:** Idiomatic Java execution, explicit time/space trade-offs ($O(N)$ vs $O(\log N)$), and defensive handling of boundary conditions.
+* **Topics Covered:** Arrays, Two Pointers, Sliding Window, Linked Lists, Binary Trees, Binary Search, Graphs, Heaps, Greedy Algorithms, Dynamic Programming.
+* **Goal:** Building strong computational thinking and writing clean, readable code with reasonable time and space complexity.
 
 🔗 **Repository:** [Himendra21/leetcode-java](https://github.com/Himendra21/leetcode-java)
 </details>
 
 ---
 
-### 🎯 Technical Roadmap
+### 📚 Currently Learning
 
-- [x] Spring Boot Core & Data JPA Architecture
-- [x] Stateless JWT Security Filters & Custom Request Handlers
-- [/] **Active:** Deep Dive into OAuth2 / OpenID Connect (OIDC) Specs
-- [ ] **Next:** Containerization with Docker & Multi-Stage Production Builds
-- [ ] **Next:** Distributed Caching (Redis) & Database Indexing Benchmarks
+- [x] Spring Boot REST API Foundations & Layered Architecture
+- [x] JWT Authentication & Spring Security Configuration
+- [/] **In Progress:** Deepening knowledge of Spring Security internals, OAuth2 & OpenID Connect
+- [ ] **Next:** Containerization basics with Docker
+- [ ] **Next:** Database query optimization & indexing concepts
 
 ---
 
-### 📊 GitHub Activity & System Metrics
+### 📊 GitHub Activity
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Himendra21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Himendra's GitHub Stats" />
@@ -103,7 +109,7 @@ A curated engine of optimized algorithmic solutions in idiomatic Java 17, design
 
 ---
 
-### 🤝 Contact & Connect
+### 🤝 Connect With Me
 
 * **Email:** [himendragusain@gmail.com](mailto:himendragusain@gmail.com)
 * **LinkedIn:** [linkedin.com/in/himendra-gusain](https://linkedin.com/in/himendra-gusain)
@@ -114,6 +120,4 @@ A curated engine of optimized algorithmic solutions in idiomatic Java 17, design
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:1e293b&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
-
-
 
