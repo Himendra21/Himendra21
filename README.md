@@ -1,79 +1,60 @@
 # Himendra Gusain
 
-Java Backend Engineer | Spring Boot • Spring Security • REST APIs
+**Java Developer | Spring Boot | REST APIs**
 
----
+I’m learning backend development with Java and Spring Boot, building projects to understand how real applications work.
 
-## Overview
+## What I’m Working On
 
-Building production-grade backend systems with clean architecture and security-first design.
-
-**Focus:** Spring Security • JWT • REST APIs • System Design • DSA
-
----
+- Java & Spring Boot
+- REST API development
+- Spring Security & JWT
+- MySQL & JPA
+- Data Structures & Algorithms
+- Backend fundamentals
 
 ## Projects
 
-### [Focus API](https://github.com/Himendra21/focus-api)
-Enterprise REST API with Spring Boot.
+### Focus API
 
-**Features:**
-- JWT authentication & Spring Security
-- Layered architecture (Controller → Service → Repository)
+A Spring Boot REST API I built while learning backend development.
+
+- JWT authentication
+- Spring Security
+- Layered architecture
 - Global exception handling
-- Spring Data JPA + Hibernate
-- MySQL integration
+- Spring Data JPA
+- MySQL
 
-**Tech:** Java 17 • Spring Boot • Spring Security • Maven
+**Java 17 · Spring Boot · Spring Security · JPA · MySQL · Maven**
 
----
+[View Repository](https://github.com/Himendra21/focus-api)
 
-### [LeetCode Java](https://github.com/Himendra21/leetcode-java)
-Data Structures & Algorithms. 200+ problems. Striver's A2Z.
+### LeetCode Java
 
-**Topics:** Arrays • Linked Lists • Trees • Graphs • DP • Greedy • Bit Manipulation
+My repository for practicing DSA problems in Java.
 
----
+Following **Striver’s A2Z DSA Roadmap**.
 
-## Stack
+**Java · DSA · LeetCode**
 
-| Category | Tools |
-|----------|-------|
-| **Language** | Java 17 |
-| **Framework** | Spring Boot, Spring Security, Spring Data JPA |
-| **Security** | JWT, BCrypt |
-| **Database** | MySQL, Hibernate ORM, H2 |
-| **Build** | Maven, Git |
+[View Repository](https://github.com/Himendra21/leetcode-java)
 
----
+## Currently Learning
 
-## Principles
-
-1. Build to understand
-2. Clarity over cleverness
-3. Security first
-4. Maintainability scales
-5. Know the "why"
-
----
-
-## Learning
-
-- OAuth2 / OIDC patterns
-- Microservices & Spring Cloud
+- Advanced Java
+- Spring Security
 - Database optimization
-- System design
+- System Design
+- Microservices
 - Advanced DSA
 
----
+## Links
 
-## Connect
-
-- **GitHub:** [@Himendra21](https://github.com/Himendra21)
-- **LinkedIn:** [himendra-gusain](https://www.linkedin.com/in/himendra-gusain/)
-- **LeetCode:** [Himendra11](https://leetcode.com/u/Himendra11/)
-- **Email:** himendragusain@gmail.com
+[GitHub](https://github.com/Himendra21) ·
+[LinkedIn](https://www.linkedin.com/in/himendra-gusain/) ·
+[LeetCode](https://leetcode.com/u/Himendra11/)
 
 ---
 
-Open to: Backend discussions • System design • Security best practices
+#java #springboot #backenddevelopment #restapi #springsecurity #mysql #jpa #hibernate #dsa #leetcode
